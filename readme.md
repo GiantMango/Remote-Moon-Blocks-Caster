@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Remote Moon Block Caster
 <!-- omit in toc -->
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/S51uuJaf5TI
 <!-- omit in toc -->
 #### Description:
 This program is a remote moon blocks caster designed for individuals of Chinese descent seeking guidance and support from the Gods. In traditional practice, users ask questions and cast two moon blocks, which have yin and yang sides. A favorable response from the Gods is represented by one yin and one yang, while receiving two of the same side indicates a negative response from Gods. This application simulates this ritual, providing a convenient solution for those living abroad or unable to visit temples. . Developed as my CS50P final project in October 2024, it features original pixel art designs created by Taylor Liao, using Pixaki. It offers a meaningful way to connect with cultural practices and spiritual guidance from a distance.
